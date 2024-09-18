@@ -3,7 +3,7 @@ name: GitHub Pages - Angular 18
 on:
   push:
     branches:
-    - main
+    - master
 
 permissions:
   contents: write
