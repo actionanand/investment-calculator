@@ -1,7 +1,8 @@
 // Use the below code as a help
 // e.g., integrate it into a service or component
 // You may need to tweak it, depending on where and how you use it
-// eslint-disable-line @typescript-eslint/no-unused-vars
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
 function calculateInvestmentResults() {
   const annualData = [];
   let investmentValue = initialInvestment;
